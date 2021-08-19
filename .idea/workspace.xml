@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31f17ffd-1d53-4c3c-aa37-ada7d0d53ae4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/aboutdoctors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aboutdoctors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/all_user_types/all_doctors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/all_user_types/all_doctors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/appointments.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appointments.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/blog/all_blogs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blog/all_blogs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/blog/detailed_blog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/blog/detailed_blog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/book_appointment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/book_appointment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chat/chatScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chat/chatScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clinics/doctors_in_clinics.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clinics/doctors_in_clinics.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/common/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/common/constant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/customer_service/customer_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/customer_service/customer_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/customer_service/search_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/customer_service/search_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/editprofile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/editprofile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/familymemberList.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/familymemberList.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/help.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/help.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/image360/full_body_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/image360/full_body_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/image360/select_pain_point_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/image360/select_pain_point_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/home_screen_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/home_screen_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/signIn_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/signIn_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/appointement/doctor_appointement_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/appointement/doctor_appointement_detail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/appointement/lab_book_appointment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/appointement/lab_book_appointment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rest/api_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rest/api_services.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/signup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/signup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wIdgets/pdf_viewer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wIdgets/pdf_viewer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[2c8d8e6]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlutterView" splitter-proportion="0.5892473" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1joo6SEvqad7wf2xAgEnrEpOWgG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/image360" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\INFIKEY\claveto-2-12\clevato1\lib\image360" />
+      <recent name="E:\INFIKEY\claveto-2-12\clevato1\android\app" />
+      <recent name="E:\INFIKEY\clevato1\android\app\src\main\res\drawable" />
+      <recent name="E:\INFIKEY\clevato1\lib\wIdgets" />
+      <recent name="E:\INFIKEY\clevato1\lib\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\INFIKEY\claveto-2-12\clevato1\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/notification_example.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f17ffd-1d53-4c3c-aa37-ada7d0d53ae4" name="Default Changelist" comment="" />
+      <created>1604479629845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604479629845</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added slots">
+      <created>1604671249192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604671249193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="appointment done, blogs done">
+      <created>1604929350334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604929350334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="10-11-2020">
+      <created>1605016322510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605016322510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="17-11-2020">
+      <created>1605634985553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605634985554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="18-11-2020">
+      <created>1605762457789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605762457789</updated>
+    </task>
+    <task id="LOCAL-00006" summary="20-11-2020">
+      <created>1605859744916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605859744916</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2-12-2020">
+      <created>1606908162385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606908162385</updated>
+    </task>
+    <task id="LOCAL-00008" summary="14-12-2020">
+      <created>1607933920379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607933920379</updated>
+    </task>
+    <task id="LOCAL-00009" summary="15-12-2020">
+      <created>1608011272232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608011272233</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added slots" />
+    <MESSAGE value="appointment done, blogs done" />
+    <MESSAGE value="10-11-2020" />
+    <MESSAGE value="17-11-2020" />
+    <MESSAGE value="18-11-2020" />
+    <MESSAGE value="20-11-2020" />
+    <MESSAGE value="2-12-2020" />
+    <MESSAGE value="14-12-2020" />
+    <MESSAGE value="15-12-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="15-12-2020" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="202" key="#Web_Browsers" timestamp="1606389232403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1606389232403" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605856101220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605856101220" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1605702064512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605702064512" />
+    <state x="93" y="89" width="1350" height="609" key="AVDManager" timestamp="1608037638526">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="93" y="89" width="1350" height="609" key="AVDManager/0.0.1536.786@0.0.1536.786" timestamp="1608037638526" />
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1608010597502" />
+    <state x="383" y="0" key="CommitChangelistDialog2" timestamp="1608011271160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608011271160" />
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog" timestamp="1605634966722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605634966722" />
+    <state x="304" y="170" key="FileChooserDialogImpl" timestamp="1606932229781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="304" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606932229781" />
+    <state x="586" y="280" key="Github.CreateGistDialog" timestamp="1608119392150">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="586" y="280" key="Github.CreateGistDialog/0.0.1536.786@0.0.1536.786" timestamp="1608119392150" />
+    <state x="586" y="294" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1607165698276" />
+    <state x="625" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1604551667683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1604551667683" />
+    <state width="1476" height="235" key="GridCell.Tab.0.bottom" timestamp="1608197810504">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state width="1491" height="220" key="GridCell.Tab.0.bottom/0.0.1536.783@0.0.1536.783" timestamp="1608026687451" />
+    <state width="1476" height="235" key="GridCell.Tab.0.bottom/0.0.1536.786@0.0.1536.786" timestamp="1608197810504" />
+    <state width="1478" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608021268282" />
+    <state width="1476" height="235" key="GridCell.Tab.0.center" timestamp="1608197810504">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state width="1491" height="220" key="GridCell.Tab.0.center/0.0.1536.783@0.0.1536.783" timestamp="1608026687451" />
+    <state width="1476" height="235" key="GridCell.Tab.0.center/0.0.1536.786@0.0.1536.786" timestamp="1608197810504" />
+    <state width="1478" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608021268282" />
+    <state width="1476" height="235" key="GridCell.Tab.0.left" timestamp="1608197810503">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state width="1491" height="220" key="GridCell.Tab.0.left/0.0.1536.783@0.0.1536.783" timestamp="1608026687450" />
+    <state width="1476" height="235" key="GridCell.Tab.0.left/0.0.1536.786@0.0.1536.786" timestamp="1608197810503" />
+    <state width="1478" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608021268282" />
+    <state width="1476" height="235" key="GridCell.Tab.0.right" timestamp="1608197810504">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state width="1491" height="220" key="GridCell.Tab.0.right/0.0.1536.783@0.0.1536.783" timestamp="1608026687451" />
+    <state width="1476" height="235" key="GridCell.Tab.0.right/0.0.1536.786@0.0.1536.786" timestamp="1608197810504" />
+    <state width="1478" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608021268282" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1608037312332">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.786@0.0.1536.786" timestamp="1608037312332" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607971091295" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608011278206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608011278206" />
+    <state x="572" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605765748613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605765748613" />
+    <state x="475" y="137" width="687" height="570" key="find.popup" timestamp="1608197745900">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="475" y="136" width="586" height="567" key="find.popup/0.0.1536.783@0.0.1536.783" timestamp="1608025642849" />
+    <state x="475" y="137" width="687" height="570" key="find.popup/0.0.1536.786@0.0.1536.786" timestamp="1608197745900" />
+    <state x="475" y="143" width="586" height="596" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607943460352" />
+    <state x="563" y="198" key="git4idea.merge.GitMergeDialog" timestamp="1605765736900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="198" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605765736900" />
+    <state x="581" y="254" key="git4idea.ui.GitTagDialog" timestamp="1605763055381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="254" key="git4idea.ui.GitTagDialog/0.0.1536.824@0.0.1536.824" timestamp="1605763055381" />
+    <state x="425" y="178" key="run.anything.popup" timestamp="1608187064392">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="425" y="178" key="run.anything.popup/0.0.1536.786@0.0.1536.786" timestamp="1608187064392" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606195884729" />
+    <state x="431" y="138" width="672" height="647" key="search.everywhere.popup" timestamp="1608028643005">
+      <screen x="0" y="0" width="1536" height="786" />
+    </state>
+    <state x="431" y="138" width="672" height="647" key="search.everywhere.popup/0.0.1536.786@0.0.1536.786" timestamp="1608028643005" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605704766583" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/checkout.dart</url>
+          <line>106</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/editprofile.dart</url>
+          <line>433</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
